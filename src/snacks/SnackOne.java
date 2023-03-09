@@ -19,5 +19,7 @@ public class SnackOne {
         } else {
             System.out.println(userNumber + 1);
         }
+
+        scan.close();
     }
 }
